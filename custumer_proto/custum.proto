@@ -13,6 +13,9 @@ service CustomService {
  message Empty {
 
  }
+message nimadur {
+    
+}
 
 message GetId {
     int64 id =1;
